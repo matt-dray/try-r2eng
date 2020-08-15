@@ -1,0 +1,15 @@
+Type: Compendium
+Package: try-r2eng
+Title: Demo of {r2eng}: make R speakable!
+Version: 0.0.1
+Authors@R: 
+    person(given = "Matt",
+           family = "Dray",
+           role = c("aut", "cre"),
+           email = "mwdray@gmail.com")
+Description: A Binder instance of RStudio for trying the
+    {r2eng} package for translating R expresions to English.
+Depends: tidyverse
+Remotes: matt-dray/r2eng
+Encoding: UTF-8
+LazyData: true
